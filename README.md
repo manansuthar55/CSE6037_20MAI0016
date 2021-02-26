@@ -6,9 +6,9 @@ Build a single perceptron which takes x1 ad x2 two input variables for a trainin
 Use inbulit function MLPClassifier for understading the working the multilayer perceptron network with input as a publicly available dataset in xlsx format. (Dataset directly fetched from UCI dataset repository)
 
 ## Task 3:
-1. read image from folder  
-2. load in the numpy array or in excel (display some images)  
-3. extract feature from step using builtin fun  (top 5 image feature and its label)
-4. split train and test
-5. learning algorihm
-6. test (display test image with accuracy) 7. accuracy score, Precision, recall , F1-score 
+1. Read image from folder  
+2. Load in the numpy array or in excel (display some images)  
+3. Extract feature from step using builtin fun  (top 5 image feature and its label)
+4. Split train and test
+5. Learning algorihm
+6. Test (display test image with accuracy) 7. accuracy score, Precision, recall , F1-score 
