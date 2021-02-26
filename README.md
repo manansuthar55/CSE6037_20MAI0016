@@ -9,6 +9,7 @@ Use inbulit function MLPClassifier for understading the working the multilayer p
 1. Read image from folder(Dataset present in img_dataset.zip)  
 2. Load in the numpy array or in excel (display some images)  
 3. Extract feature from step using builtin fun  (top 5 image feature and its label)
-4. Split train and test
+4. Split train and test dataset
 5. Learning algorihm
-6. Test (display test image with accuracy) 7. accuracy score, Precision, recall , F1-score 
+6. Testing data
+7. Accuracy score, Precision, Recall , F1-score 
