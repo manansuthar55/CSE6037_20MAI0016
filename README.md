@@ -14,3 +14,17 @@ Use inbulit function MLPClassifier for understading the working the multilayer p
 5. Learning algorihm
 6. Testing data
 7. Accuracy score, Precision, Recall , F1-score 
+
+## Assessment_2
+### Task 1:
+Demonstrate activation functions used in a Neural Network.
+1. Binary Step
+2. Tanh
+3. ReLU
+4. LReLU
+5. ELU
+6. Swish
+7. Softmax
+
+### Task 2:
+Use inbulit function MLPClassifier for understading the working the multilayer perceptron network with input as a publicly available dataset in xlsx format. (Dataset directly fetched from UCI dataset repository)
