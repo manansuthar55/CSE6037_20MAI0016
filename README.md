@@ -17,7 +17,7 @@ Use inbulit function MLPClassifier for understading the working the multilayer p
 
 ## Assessment_2
 ### Task 1:
-Demonstrate activation functions used in a Neural Network.
+Demonstration of commonly used activation functions in a Neural Network.
 1. Binary Step
 2. Tanh
 3. ReLU
