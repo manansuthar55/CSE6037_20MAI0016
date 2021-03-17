@@ -1,5 +1,5 @@
 # CSE6037_20MAI0016
-##Assessment_1
+## Assessment_1
 ### Task 1:
 Build a single perceptron which takes x1 ad x2 two input variables for a training data of 3 samples with corresponding labeled output y and in return perceptron has to learn weights w1 and w2, with bias b also. Later, a test sample is given to predict the label. (Simple one click run in python notebook)
 
