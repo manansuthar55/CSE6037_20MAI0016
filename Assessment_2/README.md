@@ -2,12 +2,13 @@
 ### Task 1:
 Demonstration of commonly used activation functions in a Neural Network.
 1. Binary Step
-2. Tanh
-3. ReLU
-4. LReLU
-5. ELU
-6. Swish
-7. Softmax
+2. Sigmoid
+3. Tanh
+4. ReLU
+5. LReLU
+6. ELU
+7. Swish
+8. Softmax
 
 ### Task 2:
 Write a python code to filter the given image using following size of the filters (receptive field) and hyper parameters (box filter) 
