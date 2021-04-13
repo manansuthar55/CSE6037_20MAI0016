@@ -29,6 +29,13 @@ Demonstration of commonly used activation functions in a Neural Network.
 ### Task 2:
 Use inbulit function MLPClassifier for understading the working the multilayer perceptron network with input as a publicly available dataset in xlsx format. (Dataset directly fetched from UCI dataset repository)
 
+## Assessment_3
+### Task 1:
+Implementation of AlenNet using keras
+
+### Task 2:
+Implementation of LeNet-5 using keras
+
 ## Assessment_4
 ### Task 1:
 Implementating AlexNet with transfer learning for fine turning or feature extraction.
